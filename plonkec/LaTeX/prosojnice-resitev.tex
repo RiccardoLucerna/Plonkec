@@ -1,0 +1,50 @@
+\documentclass{beamer}
+\usepackage{array}     % določili <{...} in >{...} pri tabelah
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepgfplotslibrary{external}
+\usetikzlibrary{math}
+\usepackage{predavanja}
+
+% definicije in izreki
+\newtheorem{definicija}{Definicija}
+\newtheorem{izrek}{Izrek}
+
+\begin{document}
+
+\title{Matematični izrazi in uporaba paketa \texttt{beamer}}
+\subtitle{\emph{Matematičnih} nalog ni treba reševati!}
+\institute[FMF]{Fakulteta za matematiko in fiziko}
+\date{}
+
+% Naslovna stran
+\frame{\titlepage}
+
+\begin{frame}
+	% Z ukazom frametitle določite naslov prosojnice
+	\frametitle{Kratek pregled}
+	% Določite, da naj se kazalo vsebine odkriva postopoma.
+	% Ker ni videti preveč lepo, pomožni parameter zakomentirajte.
+	\tableofcontents %[pausesections]
+ \end{frame}
+
+% Kje v PDF datoteki se pojavi naslov razdelka?
+\section{Paket \texttt{beamer}}
+\input{input/1-paket-beamer.tex}
+
+\section{Paketa \texttt{amsmath} in \texttt{amsfonts}}
+\input{input/2-paketa-amsmath-amsfonts.tex}
+
+\section[Matematika, 1. del\\\large{Analiza, logika, množice}]{Matematika, 1. del}
+\input{input/3-analiza-logika-mnozice.tex}
+
+\section{Stolpci in slike}
+\input{input/4-stolpci-slike.tex}
+
+\section{Paket \texttt{beamer} in tabele}
+\input{input/5-beamer-tabele.tex}
+
+\section[Matematika, 2. del\\\large{Zaporedja, algebra, grupe}]{Matematika, 2. del}
+\input{input/6-zaporedja-algebra-grupe.tex}
+
+\end{document}
