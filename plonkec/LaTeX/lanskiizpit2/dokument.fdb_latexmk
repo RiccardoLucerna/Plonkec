@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1737985189.02988 "c:/Users/rl59453/Plonkec/plonkec/LaTeX/lanskiizpit2/dokument.tex" "dokument.pdf" "dokument" 1737985190.75929 0
+["pdflatex"] 1738083617.67822 "c:/Users/rl59453/Plonkec/plonkec/LaTeX/lanskiizpit2/dokument.tex" "dokument.pdf" "dokument" 1738083619.48312 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -156,7 +156,7 @@
   "C:/Program Files/MiKTeX/tex/latex/tools/enumerate.sty" 1718356376 3468 ad69b54642e68f9fdf39ec1a16dd7341 ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "C:/Users/rl59453/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737982394 81088 29d6fa367ac022d1b69251d68c0742e6 ""
+  "C:/Users/rl59453/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738075062 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/rl59453/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1737969963 24254908 fa5d22d3e524aa0670cfb316857c9ba5 ""
   "C:/Users/rl59453/AppData/Roaming/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/rl59453/AppData/Roaming/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -236,11 +236,11 @@
   "C:/Users/rl59453/AppData/Roaming/MiKTeX/tex/latex/translator/translator-numbers-dictionary-English.dict" 1622471508 1638 2bf1a1dea98f8a4d28033fce76e9cc67 ""
   "C:/Users/rl59453/AppData/Roaming/MiKTeX/tex/latex/translator/translator-theorem-dictionary-English.dict" 1622471508 3523 1f9d9b91f7d78b73e74c7e97bca30fb0 ""
   "C:/Users/rl59453/AppData/Roaming/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
-  "c:/Users/rl59453/Plonkec/plonkec/LaTeX/lanskiizpit2/dokument.tex" 1737985188 2871 a38a3567d02a94fb98293dde62312fbb ""
-  "dokument.aux" 1737985190 1227 ca74259efd7a3e9ba7eac3c90124fbbd "pdflatex"
-  "dokument.nav" 1737985190 695 6651083f79a4f442a37fdf1bb57191ea "pdflatex"
-  "dokument.out" 1737985190 171 94bbf55d444f3d03e0015fe872f84fa3 "pdflatex"
-  "dokument.tex" 1737985188 2871 a38a3567d02a94fb98293dde62312fbb ""
+  "c:/Users/rl59453/Plonkec/plonkec/LaTeX/lanskiizpit2/dokument.tex" 1738083617 2880 a101e4e1093abf2089714870544804b7 ""
+  "dokument.aux" 1738083619 1301 2603e5ab643762d450d3e0d202c8bff3 "pdflatex"
+  "dokument.nav" 1738083619 751 c55a0fb993f6e70040d42bcbddf9dd5c "pdflatex"
+  "dokument.out" 1738083619 167 2a417fed58de0f9d56e4d5f440475992 "pdflatex"
+  "dokument.tex" 1738083617 2880 a101e4e1093abf2089714870544804b7 ""
   "julia_set.png" 1707753652 521302 0987afc4c85c1a59007ad8aafa665b15 ""
   (generated)
   "dokument.aux"
