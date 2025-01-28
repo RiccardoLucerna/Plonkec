@@ -1,5 +1,8 @@
 # Latex
 
+## Simboli
+https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
+
 <kbd>{obvezni}</kbd>
 <kbd>[neobvezi]</kbd>
 
